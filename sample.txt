@@ -1,3 +1,5 @@
 sample
 
 hello
+
+for newPath content
