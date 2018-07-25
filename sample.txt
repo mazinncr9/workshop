@@ -4,4 +4,8 @@ hello
 
 for newPath content
 
+<<<<<<< HEAD
 hellooooooooooooooooooooooooooooooooooooooo
+=======
+edo ath poyi............................
+>>>>>>> newPath
